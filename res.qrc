@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Chess/Bulbasaur_Bishop_NS.stl</file>
+        <file>Res/Chess/Charmander_Knight_NS.stl</file>
+        <file>Res/Chess/Chess_Board.stl</file>
+        <file>Res/Chess/Mew_King_NS.stl</file>
+        <file>Res/Chess/Mewtwo_King_NS.stl</file>
+        <file>Res/Chess/Pikachu_Squeen_NS.stl</file>
+        <file>Res/Chess/Pokeball_Pawn_NS.stl</file>
+        <file>Res/Chess/Squirtle_Rook_NS.stl</file>
+        <file>Res/Chinese_Chess/Board.stl</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Advisor.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Cannon.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Chariot.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Elephant.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_General.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Horse.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_back_Soldier.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Advisor.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Cannon.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Chariot.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Elephant.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_General.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Horse.STL</file>
+        <file>Res/Chinese_Chess/Chinese_chess_red_Soldier.STL</file>
+        <file>Res/model.frag</file>
+        <file>Res/model.vert</file>
+    </qresource>
+</RCC>
